@@ -22,7 +22,7 @@ This talk explores how we can harness the power of **Large Language Models (LLMs
 
 ## 📂 Get the Slides
 
-👉 [**CodemotionMadrid2025.pdf**]([./CodemotionMadrid2025.pdf](CodemotionMadrid2025.pdf))
+👉 [**CodemotionMadrid2025.pdf**]([[./CodemotionMadrid2025.pdf](CodemotionMadrid2025.pdf)](https://github.com/AttackFlowRider/codemotionmadrid25/blob/9955753773e777c73f264ca53d19ce523123b927/CodemotionMadrid2025.pdf))
 
 ---
 
